@@ -1,5 +1,6 @@
 ---
 description: Register yourself as an eco-champion.
+icon: circle-user
 ---
 
 # Setting up your account

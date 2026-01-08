@@ -1,5 +1,6 @@
 ---
 description: Know your customer
+icon: badge-check
 ---
 
 # KYC Verification

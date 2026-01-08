@@ -1,5 +1,6 @@
 ---
 description: Verify your email to unlock referrals.
+icon: at
 ---
 
 # Email verification
