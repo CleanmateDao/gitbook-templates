@@ -19,11 +19,8 @@
 
 ## Streaks
 
-* [Editor](streaks/editor.md)
-* [Markdown](streaks/markdown.md)
-* [Images & media](streaks/images-and-media.md)
-* [Interactive blocks](streaks/interactive-blocks.md)
-* [Integrations](streaks/integrations.md)
+* [Submit a new streak](streaks/submit-a-new-streak.md)
+* [Tips for Submission](streaks/tips-for-submission.md)
 
 ## Cleanups
 
@@ -45,3 +42,7 @@
 ## Partners
 
 * [Communities](partners/communities.md)
+
+***
+
+* [Streaks](streaks-1.md)
