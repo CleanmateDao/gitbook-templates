@@ -1,3 +1,7 @@
+---
+description: Proof that you're not a robot.
+---
+
 # VeBetter Passport
 
 {% hint style="info" %}
