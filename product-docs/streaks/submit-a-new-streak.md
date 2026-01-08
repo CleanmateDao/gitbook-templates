@@ -49,28 +49,11 @@ Click on the "Streak" button, then click on the "New Steak" or "Record your firs
 
 <figure><img src="../.gitbook/assets/streak1.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### S
+### Step 6: Submission
+
+Take a picture or record a video, preview and submit your streak.
+
+<div><figure><img src="../.gitbook/assets/waste.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mug.jpeg" alt=""><figcaption></figcaption></figure></div>
 
 
 
-### Add a new block
-
-{% stepper %}
-{% step %}
-#### Open the insert block menu
-
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
-
-{% step %}
-#### Search for the block you need
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
-
-{% step %}
-#### Insert and edit your block
-
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed
-{% endstep %}
-{% endstepper %}
