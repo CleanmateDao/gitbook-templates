@@ -1,5 +1,5 @@
 ---
-description: Verify your email to unlock referrals.
+description: Verify your email to unlock referrals and earning rewards.
 icon: at
 ---
 
