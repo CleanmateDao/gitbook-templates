@@ -40,3 +40,7 @@
 * [Youtube](https://www.youtube.com/@cleanmatedao)
 * [Website](https://cleanmatedao.com/)
 * [Testnet App](https://testnet.cleanmatedao.com/)
+
+## Partners
+
+* [Communities](partners/communities.md)
