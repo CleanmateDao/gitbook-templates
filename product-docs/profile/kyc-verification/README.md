@@ -5,7 +5,7 @@ icon: badge-check
 
 # KYC Verification
 
-### Step 1: On the Settings tab.
+### Step 1: Click on the Settings tab.
 
 <figure><img src="../../.gitbook/assets/10.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@ If you see "KYC not started" as displayed in the image below, kindly proceed to 
 
 <figure><img src="../../.gitbook/assets/kyc.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Step 3: Choose between VeBetter Passport or Native Passport.
+### Step 3: Choose between VeBetter Passport and Native Passport.
 
 | KYC Options       | Pros                                              | Cons                    |
 | ----------------- | ------------------------------------------------- | ----------------------- |
