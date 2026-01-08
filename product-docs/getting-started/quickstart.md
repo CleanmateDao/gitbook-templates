@@ -43,6 +43,8 @@ Click on the "Login" button. Then click on "Use social login with VeChain" butto
 
 ### Step 4b: Login with your Wallet (Advanced)
 
+_<mark style="color:orange;">Skip this step if you already took step 4a.</mark>_
+
 > For wallet users, gas fees are not sponsored.&#x20;
 
 Download or install VeWorld wallet [https://www.veworld.net](https://www.veworld.net/)&#x20;
