@@ -31,7 +31,7 @@
 
 ## Rewards
 
-* [See your rewards.](rewards/see-your-rewards..md)
+* [See your rewards](rewards/see-your-rewards.md)
 
 ## Resources
 
