@@ -19,17 +19,17 @@ layout:
 
 # Submit a new streak
 
-### Step 1: Click on the "Streaks" button
+### Step 1: Click on the "Streaks" button.
 
 On the your Dashboard, Click on the "Streaks" button to upload a picture or a 5-second video of sustainable actions.
 
-<figure><img src="../.gitbook/assets/str1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/str1.png" alt="" width="188"><figcaption></figcaption></figure>
 
-### Step 2: Click on the "Join Streak Program"&#x20;
+### Step 2: Click on the "Join Streak Program" .
 
 Begin your journey to earn B3TR rewards daily.
 
-<figure><img src="../.gitbook/assets/str2.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/str2.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Step 3: Sign Transaction
 
@@ -41,19 +41,23 @@ Click on the "Sign and continue" button to approve, it won't cost you any fee.
 
 Now that you've successfully joined the Streak program, you can click on the "close" button.
 
-<figure><img src="../.gitbook/assets/str3.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/str3.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Step 5: New Streak
 
 Click on the "Streak" button, then click on the "New Steak" or "Record your first streak" button.
 
-<figure><img src="../.gitbook/assets/streak1.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/streak1.png" alt="" width="188"><figcaption></figcaption></figure>
 
-### Step 6: Submission
+### Step 6: Submission.
 
-Take a picture or record a video, preview and submit your streak.
+Take a picture or record a short video, preview and submit your streak.
 
-<div><figure><img src="../.gitbook/assets/waste.jpeg" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/mug.jpeg" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/waste.jpeg" alt="" width="295"><figcaption><p>A well disposed waste.</p></figcaption></figure> <figure><img src="../.gitbook/assets/mug.jpeg" alt="" width="295"><figcaption><p>A reusable mug.</p></figcaption></figure></div>
 
+### Step 7: Sign message.
 
+Click on "sign and continue" button.
+
+<figure><img src="../.gitbook/assets/sign.png" alt="" width="199"><figcaption></figcaption></figure>
 
