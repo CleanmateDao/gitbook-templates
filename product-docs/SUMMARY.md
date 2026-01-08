@@ -31,7 +31,7 @@
 
 ## Rewards
 
-* [Page 2](rewards/page-2.md)
+* [See your rewards.](rewards/see-your-rewards..md)
 
 ## Resources
 
