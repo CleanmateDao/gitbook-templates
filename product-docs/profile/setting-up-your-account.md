@@ -16,4 +16,4 @@ description: Register yourself as an eco-champion.
 
 Click on the "Create Profile" button. Then click on "Sign and Continue".
 
-<div><figure><img src="../.gitbook/assets/13.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/14.png" alt="" width="202"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/13.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure></div>
