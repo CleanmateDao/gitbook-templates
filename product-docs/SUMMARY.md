@@ -31,3 +31,12 @@
 ## Rewards
 
 * [Page 2](rewards/page-2.md)
+
+## Resources
+
+* [X (Formerly twitter)](https://x.com/cleanmatedao)
+* [Instagram](https://instagram.com/cleanmatedao)
+* [Tiktok](https://tiktok.com/@cleanmatedao)
+* [Youtube](https://www.youtube.com/@cleanmatedao)
+* [Website](https://cleanmatedao.com/)
+* [Testnet App](https://testnet.cleanmatedao.com/)
