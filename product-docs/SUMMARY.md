@@ -46,8 +46,5 @@
 
 ## Partners
 
-* [Communities](partners/communities.md)
-
-***
-
-* [Streaks](streaks-1.md)
+* [Communities](partners/communities/README.md)
+  * [Become a partner](partners/communities/become-a-partner.md)
