@@ -1,5 +1,6 @@
 ---
 description: See how far eco-rich you've come.
+icon: sack-dollar
 ---
 
 # See your rewards
