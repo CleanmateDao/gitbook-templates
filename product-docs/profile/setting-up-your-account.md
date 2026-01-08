@@ -10,7 +10,7 @@ description: Register yourself as an eco-champion.
 
 ### Step 2: Enter your name, bio, interests and others.
 
-<div><figure><img src="../.gitbook/assets/11.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/12.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/15.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/16.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Step 3: Create your account.
 
