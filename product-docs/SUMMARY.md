@@ -25,10 +25,15 @@
 ## Cleanups
 
 * [Start a new cleanup](cleanups/start-a-new-cleanup.md)
+* [Request to join a cleanup](cleanups/request-to-join-a-cleanup.md)
+* [Accept a cleanup join request](cleanups/accept-a-cleanup-join-request.md)
+* [Reject a cleanup join request](cleanups/reject-a-cleanup-join-request.md)
+* [Add updates to cleanup](cleanups/add-updates-to-cleanup.md)
+* [Submit cleanup proof of work](cleanups/submit-cleanup-proof-of-work.md)
 
 ## Rewards
 
-* [See your rewards](rewards/see-your-rewards.md)
+* [See your rewards](rewards/see-your-rewards..md)
 
 ## Resources
 

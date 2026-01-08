@@ -2,7 +2,7 @@
 description: See how far eco-rich you've come.
 ---
 
-# See your rewards.
+# See your rewards
 
 ### Step 1: Click on the Rewards tab.
 
