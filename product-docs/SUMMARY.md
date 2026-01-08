@@ -14,7 +14,8 @@
   * [VeBetter Passport](profile/kyc-verification/vebetter-passport.md)
   * [Native Passport](profile/kyc-verification/native-passport.md)
 * [Preferences](profile/preferences.md)
-* [Bank accounts](profile/bank-accounts.md)
+* [Bank accounts](profile/bank-accounts/README.md)
+  * [Supported currencies.](profile/bank-accounts/supported-currencies..md)
 
 ## Streaks
 
