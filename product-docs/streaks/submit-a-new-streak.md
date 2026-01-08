@@ -1,6 +1,6 @@
 ---
 description: Join Streaks to start earning!
-icon: pen-to-square
+icon: camera
 layout:
   width: default
   title:
