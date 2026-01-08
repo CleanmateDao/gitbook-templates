@@ -41,6 +41,10 @@ Click on the "Login" button. Then click on "Use social login with VeChain" butto
 
 <div><figure><img src="../.gitbook/assets/4 (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/5 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
+Use any of the available options to setup your account: Google, WhatsApp, Twitter, and Others. Then click on Approve.
+
+<div><figure><img src="../.gitbook/assets/17.png" alt="" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/19.png" alt="" width="201"><figcaption></figcaption></figure></div>
+
 ### Step 4b: Login with your Wallet (Advanced)
 
 _<mark style="color:orange;">Skip this step if you already took step 4a.</mark>_
