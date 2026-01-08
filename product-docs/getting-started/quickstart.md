@@ -18,4 +18,4 @@ layout:
 
 # Quickstart
 
-<figure><img src="../.gitbook/assets/cleanmatedao.com_(iPhone 12 Pro).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cleanmatedao.com_(iPhone 12 Pro).png" alt="" width="188"><figcaption></figcaption></figure>
