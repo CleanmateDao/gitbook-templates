@@ -10,5 +10,5 @@ icon: circle-check
 
 ### Step 2: Sign Transaction
 
-<div><figure><img src="../.gitbook/assets/sign (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/appr f (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/sign (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/appr f (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
