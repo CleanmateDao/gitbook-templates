@@ -51,5 +51,5 @@ You should see your Cleanup now marked as Completed (from the "Completed" or "Al
 {% endhint %}
 
 {% hint style="info" %}
-### If you have any issues, see [Broken link](/broken/pages/IahUGlSUtOUHGbxPQ6Oh "mention")and re-trace your steps.
+### If you have any issues, see [Broken link](/broken/pages/IahUGlSUtOUHGbxPQ6Oh "mention") and re-trace your steps.
 {% endhint %}
