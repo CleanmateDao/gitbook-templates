@@ -31,9 +31,14 @@
 * [Add updates to cleanup](cleanups/add-updates-to-cleanup.md)
 * [Submit cleanup proof of work](cleanups/submit-cleanup-proof-of-work.md)
 
+## Temi
+
+* [Ask Temi Anything](temi/ask-temi-anything.md)
+
 ## Rewards
 
 * [See your rewards](rewards/see-your-rewards..md)
+* [Withdraw to Bank Account](rewards/withdraw-to-bank-account.md)
 
 ## Resources
 
