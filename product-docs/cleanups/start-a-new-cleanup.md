@@ -26,6 +26,8 @@ On this page, you'll find a list of added cleanups, you can browse cleanup event
 
 If you get the KYC verification alert, it means that you haven't completed KYC. KYC verification is required before you can organize or join cleanups.&#x20;
 
+{% hint style="info" %}
 See [kyc-verification](../profile/kyc-verification/ "mention")
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/kyc req.png" alt="" width="375"><figcaption></figcaption></figure>
