@@ -47,5 +47,9 @@ You should see your Cleanup now marked as Completed (from the "Completed" or "Al
 <figure><img src="../.gitbook/assets/sow8.png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-### Well-done, eco-warrior! If you have any issues, see [Broken link](/broken/pages/IahUGlSUtOUHGbxPQ6Oh "mention")and re-trace your steps.
+### Well-done, eco-warrior! An Admin will review your submission and rewards will be disbursed upon acceptance.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+### If you have any issues, see [Broken link](/broken/pages/IahUGlSUtOUHGbxPQ6Oh "mention")and re-trace your steps.
 {% endhint %}
