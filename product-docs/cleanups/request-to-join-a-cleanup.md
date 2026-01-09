@@ -28,8 +28,6 @@ Review the Cleanup's details and click on the "Submit Request" to confirm your i
 
 <figure><img src="../.gitbook/assets/req3.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Step 5: Await the "Organizer(s)" approval.
-
-Your request will be approved or rejected by the organizer(s) and the transaction would be approved.
-
-<div><figure><img src="../.gitbook/assets/appr f.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/appr1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/appr2.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/sign (2).png" alt=""><figcaption></figcaption></figure></div>
+{% hint style="info" %}
+Your request will be approved or rejected by the organizer(s).
+{% endhint %}

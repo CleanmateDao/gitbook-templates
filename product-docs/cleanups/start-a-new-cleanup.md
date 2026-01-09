@@ -46,7 +46,7 @@ After a successful KYC verification, you will be able to submit the details of y
 
 Click on the "Sign and Continue" button.
 
-<figure><img src="../.gitbook/assets/sign.png" alt="" width="199"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sign (2).png" alt="" width="199"><figcaption></figcaption></figure>
 
 After your cleanup has been created, it will be displayed on the "created" tab and upon Admin's approval it would become published and visible to other eco-champions around you.&#x20;
 

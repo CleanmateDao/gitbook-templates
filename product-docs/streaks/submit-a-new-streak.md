@@ -35,7 +35,7 @@ Begin your journey to earn B3TR rewards daily.
 
 Click on the "Sign and continue" button to approve, it won't cost you any fee.
 
-<figure><img src="../.gitbook/assets/sign (1).png" alt="" width="199"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sign (1) (1).png" alt="" width="199"><figcaption></figcaption></figure>
 
 ### Step 4: Close the page.
 
@@ -59,5 +59,5 @@ Take a picture or record a short video, preview and submit your streak.
 
 Click on "sign and continue" button.
 
-<figure><img src="../.gitbook/assets/sign (1).png" alt="" width="199"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sign (1) (1).png" alt="" width="199"><figcaption></figcaption></figure>
 
