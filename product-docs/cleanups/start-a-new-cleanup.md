@@ -31,7 +31,7 @@ On this page, you'll find added cleanups, you can click on the icons as annotate
 
 <figure><img src="../.gitbook/assets/cleanup upd 2 (2).png" alt="" width="375"><figcaption><p>Cleanup Settings</p></figcaption></figure>
 
-Step 4: KYC Verification required
+### Step 4: KYC Verification required
 
 Upon clicking on the "Add Cleanup" button, If you get the KYC verification alert, it means that you haven't completed KYC. KYC verification is required before you can organize or join cleanups.&#x20;
 
