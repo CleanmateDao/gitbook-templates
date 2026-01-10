@@ -5,13 +5,13 @@ icon: gear
 
 # Preferences
 
-### Step 1: On the Settings tab.
+### Step 1: On the Settings tab
 
 <figure><img src="../.gitbook/assets/10.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Step 2: Click on "Preferences".
+### Step 2: Click on "Preferences"
 
-You can customize:
+On the Preference tab, you can customize:
 
 * Appearance (Dark or Light theme).
 * The "Plus" button action (choosing between "organizing a cleanup" and "submitting a streak").
