@@ -11,10 +11,12 @@ icon: gear
 
 ### Step 2: Click on "Preferences".
 
-You can customize appearance (dark or light theme).
+You can customize:
 
-And for the "plus" button action (choose between "organizing a cleanup" and "submitting a streak").
+* Appearance (Dark or Light theme).
+* The "Plus" button action (choosing between "organizing a cleanup" and "submitting a streak").
+* Location Permission (allowing the app to access your location).
+* Cleanups' view (map and list view).
+* Search Distance (use the slider to set how close or far you want to go).&#x20;
 
-&#x20;&#x20;
-
-<figure><img src="../.gitbook/assets/preference (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/pref1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/pref2.png" alt="" width="375"><figcaption></figcaption></figure></div>
