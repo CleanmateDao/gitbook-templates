@@ -33,17 +33,13 @@ Open your preferred browser and go to [https://cleanmatedao.com](https://cleanma
 
 Follow the app instructions or simply skip if you want to.
 
-<div><figure><img src="../.gitbook/assets/3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/32.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/31.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-### Step 4a: Login with your Socials (Recommended)
+### Step 4a: Login with your Google (Recommended)
 
-Click on the "Login" button. Then click on "Use social login with VeChain" button.
+Click on the "Login" button. Then click on "Continue with Google" button.
 
-<div><figure><img src="../.gitbook/assets/4 (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/5 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
-
-Use any of the available options to setup your account: Google, WhatsApp, Twitter, and Others. Then click on Approve.
-
-<div><figure><img src="../.gitbook/assets/17.png" alt="" width="200"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/19.png" alt="" width="201"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/34.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/36.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Step 4b: Login with your Wallet (Advanced)
 
@@ -53,10 +49,8 @@ _<mark style="color:orange;">Skip this step if you already took step 4a.</mark>_
 
 Download or install VeWorld wallet [https://www.veworld.net](https://www.veworld.net/)&#x20;
 
-<figure><img src="../.gitbook/assets/testnet.cleanmatedao.com_settings(iPhone 12 Pro) (5).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/35.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ### Step 5: View your logged account.
 
-Click to close the loading screen if it does not closes automatically.
-
-<div><figure><img src="../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/37.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/38 (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
