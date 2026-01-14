@@ -49,7 +49,7 @@ _<mark style="color:orange;">Skip this step if you already took step 4a.</mark>_
 
 Download or install VeWorld wallet [https://www.veworld.net](https://www.veworld.net/)&#x20;
 
-<figure><img src="../.gitbook/assets/35.png" alt="" width="188"><figcaption></figcaption></figure>
+<div><figure><img src="../.gitbook/assets/35.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/39.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Step 5: View your logged account.
 
