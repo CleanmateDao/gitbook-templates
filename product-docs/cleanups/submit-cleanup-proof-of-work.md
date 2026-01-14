@@ -10,11 +10,11 @@ Select a cleanup you want to begin (start) from the "Cleanups" tab on the bottom
 
 <figure><img src="../.gitbook/assets/sow0.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Step 2: Confirm and Sign Transaction
+### Step 2: Confirm
 
-Click on "confirm" to proceed and "sign and continue" to sign transaction. &#x20;
+Click on "confirm" to proceed. &#x20;
 
-<div><figure><img src="../.gitbook/assets/sow1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/sign (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/sow1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Step 3: Submit Proof of Work
 
@@ -34,11 +34,9 @@ Click on the "Mark as Completed" button as highlighted in the image below.
 
 <figure><img src="../.gitbook/assets/sow6.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Step 6: Confirm and Sign Transaction
+Click on "Confirm".&#x20;
 
-Click on "Confirm" and "Sign and Continue" buttons to sign transaction.&#x20;
-
-<div><figure><img src="../.gitbook/assets/sow7.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/sign (1).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/sow7.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Step 7: Cleanup Completed
 

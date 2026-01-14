@@ -51,12 +51,6 @@ After a successful KYC verification, you will be able to submit the details of y
 
 <div><figure><img src="../.gitbook/assets/org cl3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/org cl4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-### Step 6: Sign Transaction
-
-Click on the "Sign and Continue" button.
-
-<figure><img src="../.gitbook/assets/sign (2) (1).png" alt="" width="199"><figcaption></figcaption></figure>
-
 After your cleanup has been created, it will be displayed on the "created" tab and upon Admin's approval it would become published and visible to other eco-champions around you.&#x20;
 
 <figure><img src="../.gitbook/assets/cl created.png" alt="" width="375"><figcaption></figcaption></figure>
