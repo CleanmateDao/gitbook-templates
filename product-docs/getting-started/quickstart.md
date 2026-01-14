@@ -23,11 +23,11 @@ layout:
 
 Open your preferred browser and go to [https://cleanmatedao.com](https://cleanmatedao.com/)
 
-<figure><img src="../.gitbook/assets/cleanmatedao.com_(iPhone 12 Pro).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/cleanmatedao.com_(iPhone 12 Pro).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Step 2: Click on the "Launch App" button.
 
-<figure><img src="../.gitbook/assets/Untitled.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Step 3: The App instructions.
 
@@ -53,4 +53,4 @@ Download or install VeWorld wallet [https://www.veworld.net](https://www.veworld
 
 ### Step 5: View your logged account.
 
-<div><figure><img src="../.gitbook/assets/37.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/38 (1).png" alt="" width="188"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/37.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/38 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
