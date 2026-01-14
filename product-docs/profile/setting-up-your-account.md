@@ -15,6 +15,6 @@ icon: circle-user
 
 ### Step 3: Create your account.
 
-Click on the "Create Profile" button. Then click on "Sign and Continue".
+Click on the "Create Profile" button.
 
-<div><figure><img src="../.gitbook/assets/13.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/14.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../.gitbook/assets/13.png" alt="" width="375"><figcaption></figcaption></figure>
