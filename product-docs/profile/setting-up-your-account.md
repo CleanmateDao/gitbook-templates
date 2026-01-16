@@ -7,14 +7,11 @@ icon: circle-user
 
 ### Step 1: Go to settings tab.
 
-<figure><img src="../.gitbook/assets/10.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/lower view.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Step 2: Enter your name, bio, interests and others.
+### Step 2: Fill details and Create your account.
 
-<div><figure><img src="../.gitbook/assets/15.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/16.png" alt="" width="375"><figcaption></figcaption></figure></div>
+On the Profile tab, enter your name, email, bio and others. Then, click on the "Create Profile" button.
 
-### Step 3: Create your account.
+<div><figure><img src="../.gitbook/assets/profile page 1 (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/profile page 2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Click on the "Create Profile" button.
-
-<figure><img src="../.gitbook/assets/13.png" alt="" width="375"><figcaption></figcaption></figure>
