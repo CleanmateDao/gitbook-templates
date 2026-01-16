@@ -1,5 +1,5 @@
 ---
-description: Your door to eco-actions.
+description: Your door to eco-actions!
 icon: bolt
 layout:
   width: default
