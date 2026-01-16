@@ -33,13 +33,13 @@ Open your preferred browser and go to [https://cleanmatedao.com](https://cleanma
 
 Follow the app instructions or simply skip if you want to.
 
-<div><figure><img src="../.gitbook/assets/32.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/31.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/App instr 1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/App instr 2.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/App instr 3.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Step 4a: Login with your Google (Recommended)
 
 Click on the "Login" button. Then click on "Continue with Google" button.
 
-<div><figure><img src="../.gitbook/assets/34.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/36.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/login (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/36.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Step 4b: Login with your Wallet (Advanced)
 
@@ -49,8 +49,8 @@ _<mark style="color:orange;">Skip this step if you already took step 4a.</mark>_
 
 Download or install VeWorld wallet [https://www.veworld.net](https://www.veworld.net/)&#x20;
 
-<div><figure><img src="../.gitbook/assets/35.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/39.png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/wallet.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/39.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Step 5: View your logged account.
 
-<div><figure><img src="../.gitbook/assets/37.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/38 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/user.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/adr.png" alt="" width="375"><figcaption></figcaption></figure></div>
