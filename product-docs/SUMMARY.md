@@ -22,14 +22,14 @@
 * [Submit a new streak](streaks/submit-a-new-streak.md)
 * [Tips for Submission](streaks/tips-for-submission.md)
 
-## Cleanups
+## Impact
 
-* [Start a new cleanup](cleanups/start-a-new-cleanup.md)
-* [Request to join a cleanup](cleanups/request-to-join-a-cleanup.md)
-* [Accept a cleanup join request](cleanups/accept-a-cleanup-join-request.md)
-* [Reject a cleanup join request](cleanups/reject-a-cleanup-join-request.md)
-* [Add updates to cleanup](cleanups/add-updates-to-cleanup.md)
-* [Submit cleanup proof of work](cleanups/submit-cleanup-proof-of-work.md)
+* [Start a new impact](impact/start-a-new-impact.md)
+* [Request to join an impact](impact/request-to-join-an-impact.md)
+* [Accept an impact join request](impact/accept-an-impact-join-request.md)
+* [Reject an impact join request](impact/reject-an-impact-join-request.md)
+* [Add updates to impact](impact/add-updates-to-impact.md)
+* [Submit impact's proof of work](impact/submit-impacts-proof-of-work.md)
 
 ## Temi
 

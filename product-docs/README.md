@@ -20,11 +20,11 @@ layout:
 
 <figure><img src=".gitbook/assets/CleanMate Banner Img.jpg" alt=""><figcaption></figcaption></figure>
 
-Join thousands of environmental champions organizing cleanups across the Globe. Real impact, real crypto rewards.
+Join thousands of environmental champions making a positive impact across the globe. Real impact, real crypto rewards.
 
 
 
-[Cleanmate](https://cleanmatedao.com/) is a global platform turning environmental action into verifiable impact and real rewards. We empower individuals and communities to take part in cleanups, streaks (daily sustainable actions), and collective environmental initiatives—all tracked, verified, and rewarded with $B3TR. By combining community coordination, proof of impact, and transparent incentives.
+[Cleanmate](https://cleanmatedao.com/) is a global platform turning environmental action into verifiable impact and real rewards. We empower individuals and communities to make an impact by participating in cleanups, streaks (daily sustainable actions), educational sessions, and collective environmental initiatives. All tracked, verified, and rewarded with $B3TR. By combining community coordination, proof of impact, and transparent incentives.
 
 
 
