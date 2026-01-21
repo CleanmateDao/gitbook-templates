@@ -13,7 +13,7 @@ icon: badge-check
 
 If you see "KYC not started" as displayed in the image below, kindly proceed to complete KYC verification to unlock all features.
 
-<figure><img src="../../.gitbook/assets/kyc.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/kyc (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Step 3: Choose between VeBetter Passport and Native Passport.
 

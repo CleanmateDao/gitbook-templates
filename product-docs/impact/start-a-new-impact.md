@@ -34,17 +34,20 @@ On this page, you'll find added impacts, you can click on the icons as annotated
 
 ### Step 4: KYC Verification required
 
-Upon clicking on the "Create" button, If you get the KYC verification alert, it means that you haven't completed KYC. KYC verification is required before you can create or join impact.&#x20;
+Upon clicking on the "Make an Impact" button, If you get the KYC verification alert, it means that you haven't completed KYC. KYC verification is required before you can create or join impact.&#x20;
 
 {% hint style="info" %}
 See [kyc-verification](../profile/kyc-verification/ "mention")
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/kyc req.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/kyc.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### Step 5: Fill in Impact details
+### Step 5: Select whether "Public" or "Private" Impact
 
-After a successful KYC verification, you will be able to submit the details of your impact including title, date, time, location and others as presented in the images below.
+* Private Impact: create impact within your community, friends or just you. No scheduling required - start immediately.
+* Public Impact: create impact visible to the public - people can discover and request to join you. Set a date and time for your event.
+
+(After a successful KYC verification, you will be able to create a public impact) Submit the details of your impact including title, date, time, location and others as presented in the images below.
 
 <div><figure><img src="../.gitbook/assets/org cl1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/org cl2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
@@ -52,7 +55,7 @@ After a successful KYC verification, you will be able to submit the details of y
 
 <div><figure><img src="../.gitbook/assets/org cl3.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/org cl4.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-After your impact has been created, it will be displayed on the "created" tab and upon Admin's approval it would become published and visible to other eco-champions around you.&#x20;
+After your impact has been created, it will be displayed on the "created" tab and upon Admin's approval (for public impact) it would become published and visible to other eco-champions around you.&#x20;
 
 <figure><img src="../.gitbook/assets/cl created.png" alt="" width="375"><figcaption></figcaption></figure>
 
