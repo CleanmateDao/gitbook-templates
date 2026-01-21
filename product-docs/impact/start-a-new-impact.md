@@ -22,14 +22,15 @@ On this page, you'll find added impacts, you can click on the icons as annotated
 
 1. Settings: to select between list and map view or to set search distance.
 2. Make an Impacts: to create new impact.
-3. You location: shows you where you currently are.
+3. Your location: shows you where you currently are.
 4. Nearby: shows you impacts close to your location.
 5. Status: shows you the status of the impact.
 6. Navigation: displays buttons that would help you navigate the map.&#x20;
+7. Legend: helps you understand the visual/graphical representations on the map
 
-<div><figure><img src="../.gitbook/assets/cleanup upd 1.png" alt="" width="375"><figcaption><p>Impact- Map view</p></figcaption></figure> <figure><img src="../.gitbook/assets/cleanup upd 2.png" alt="" width="375"><figcaption><p>Impact- List view</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/c.a1.png" alt="" width="375"><figcaption><p>Impact- Map view</p></figcaption></figure> <figure><img src="../.gitbook/assets/c.a2.png" alt="" width="375"><figcaption><p>Impact- List view</p></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/cleanup upd 2 (2).png" alt="" width="375"><figcaption><p>Impact Settings</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/c.a3.png" alt="" width="375"><figcaption><p>Impact Settings</p></figcaption></figure>
 
 ### Step 4: KYC Verification required
 
