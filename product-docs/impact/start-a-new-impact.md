@@ -32,22 +32,24 @@ On this page, you'll find added impacts, you can click on the icons as annotated
 
 <figure><img src="../.gitbook/assets/c.a3.png" alt="" width="375"><figcaption><p>Impact Settings</p></figcaption></figure>
 
-### Step 4: KYC Verification required
+### Step 4: Start a new impact
 
-Upon clicking on the "Make an Impact" button, If you get the KYC verification alert, it means that you haven't completed KYC. KYC verification is required before you can create or join impact.&#x20;
-
-{% hint style="info" %}
-See [kyc-verification](../profile/kyc-verification/ "mention")
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/kyc.png" alt="" width="375"><figcaption></figcaption></figure>
+To create a new impact, click on the "Make an Impact" or "plus" button at top of the page.
 
 ### Step 5: Select whether "Public" or "Private" Impact
 
 * Private Impact: create impact within your community, friends or just you. No scheduling required - start immediately.
 * Public Impact: create impact visible to the public - people can discover and request to join you. Set a date and time for your event.
 
-(After a successful KYC verification, you will be able to create a public impact) Submit the details of your impact including title, date, time, location and others as presented in the images below.
+{% hint style="info" %}
+On the "Make an Impact" page, If you aren't able to select "Public" impact (i.e, it is gray-ed out as shown in the image below) that means you haven't completed KYC. KYC verification is required before you can create or join public impacts. See [kyc-verification](../profile/kyc-verification/ "mention")
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/kyc.png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Step 6: Submit Impact's details
+
+Submit the details of your impact including title, date, time, location and others as presented in the images below.
 
 <div><figure><img src="../.gitbook/assets/org cl1.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/org cl2.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
