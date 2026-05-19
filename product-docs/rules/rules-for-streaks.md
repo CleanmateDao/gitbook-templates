@@ -1,5 +1,6 @@
 ---
 description: Avoid getting streaks rejection.
+icon: gavel
 ---
 
 # Rules for streaks

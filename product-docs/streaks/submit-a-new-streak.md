@@ -1,20 +1,6 @@
 ---
 description: Join Streaks to start earning!
 icon: camera
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: false
 ---
 
 # Submit a new streak

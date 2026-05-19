@@ -39,7 +39,10 @@
 
 * [See your rewards](rewards/see-your-rewards..md)
 * [Withdraw to Bank Account](rewards/withdraw-to-bank-account.md)
-* [Rules for streaks](rewards/rules-for-streaks.md)
+
+## Rules
+
+* [Rules for streaks](rules/rules-for-streaks.md)
 
 ## Resources
 
