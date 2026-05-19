@@ -66,7 +66,7 @@ If the image still looks similar, compare:
 * Surroundings
 * Visible contents
 
-Do not rely on color alone when checking duplicates.
+We do not rely on color alone when checking duplicates.
 
 If the overall properties differ, APPROVE the submission.
 
