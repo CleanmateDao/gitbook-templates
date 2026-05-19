@@ -46,7 +46,7 @@ Reject the proof if:
 
 When checking for duplicates:
 
-### Approve Immediately If:
+### We approve Immediately If:
 
 * The items or trash arrangement are meaningfully different
 * The environment or background is different
