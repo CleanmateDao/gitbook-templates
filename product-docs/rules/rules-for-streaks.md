@@ -30,9 +30,9 @@ If the waste is visibly collected or contained, it is generally valid.
 
 ***
 
-## When to Reject a Submission ❌
+## When we Reject a Submission ❌
 
-Reject the proof if:
+We reject the proof if:
 
 * The image is completely clean with no visible cleanup action
 * The image appears AI-generated or fake
@@ -68,7 +68,7 @@ If the image still looks similar, compare:
 
 We do not rely on color alone when checking duplicates.
 
-If the overall properties differ, APPROVE the submission.
+If the overall properties differ, we APPROVE the submission.
 
 ***
 
